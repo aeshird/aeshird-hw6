@@ -1,4 +1,12 @@
-body {
-    background: white; 
+header {
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
     color: black;
+}
+
+body {
+    background: lightgray; 
+    color: black;
+    text-align: justify;
 }
