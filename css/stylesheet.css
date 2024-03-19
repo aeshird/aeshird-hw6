@@ -1,11 +1,17 @@
-body { 
-    background: #f5f5fa; 
-    color: #1f1f29; 
+header {
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    color: black;
 }
 
-.container {
-    width: 85%;
-    margin: auto;
-    background-color: white;
-    border: 1px solid black;
+body {
+    background: lightgrey; 
+    text-align:justify;
+    color: black;
+}
+
+section {
+    text-align: justify;
+    color: black;
 }
