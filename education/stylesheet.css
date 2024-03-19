@@ -1,4 +1,33 @@
-body {
-    background: white; 
+header {
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
     color: black;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+    background-color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+td {
+    background-color: white;
+    width: 50px;
+    text-align: center;
+}
+
+th {
+    background-color: white;
+}
+
+body {
+    background: lightgray; 
+    color: black;
+    text-align: justify;
 }
