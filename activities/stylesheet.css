@@ -1,0 +1,29 @@
+header {
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    color: black;
+
+    width: 150px;
+    height: 50px;
+
+    padding: 10px; 
+    border: 10px solid black; 
+
+    margin: 10px;
+
+    display: flex; 
+        /* Centers Text in Box */
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    background: lightgray; 
+    color: black;
+    text-align: justify;
+}
+
+.strike {
+    text-decoration: line-through;
+}
